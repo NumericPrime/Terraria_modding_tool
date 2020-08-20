@@ -265,7 +265,7 @@ void setup() {
   x[15].add(new JLabel("Item:"));
   x[15].add(item_);
   
-  final JButton addtor_=new JButton("Add to recipy");
+  final JButton addtor_=new JButton("Add to recipe");
  
   addtor_.addActionListener(new ActionListener() {
 
@@ -277,7 +277,7 @@ void setup() {
     }
   }
   );
-  final JButton tremovetor_=new JButton("Remove from recipy");
+  final JButton tremovetor_=new JButton("Remove from recipe");
  
   tremovetor_.addActionListener(new ActionListener() {
 
