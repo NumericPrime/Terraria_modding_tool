@@ -5,3 +5,5 @@ Hi please keep in mind that this project is far from finished and the code gener
 If you want to use the two programs you need to download Processing first.
 You can get it at https://processing.org/download/ .
 Once you press the Button add item it generates the .cs file Move it to your source folder of your mod and you should be fine. 
+
+If you are using the code you have to keep the .pde file in a folder with the same name. Open it and press the playbutton.
